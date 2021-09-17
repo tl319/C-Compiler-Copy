@@ -1,3 +1,5 @@
+This a public copy of a C compiler built by myself and Petra RatKai in our second year.
+
 2020/2021 Compilers Coursework
 ==============================
 
